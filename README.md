@@ -10,28 +10,8 @@ Estos son los temas que deberías entender para tener buenas bases en programaci
 
 Temario:
 
-- ¿Qué es la programación?
-- Ramas de la programación
-- Algoritmos
-- Seudocódigo
-- Diagrama de flujo
-- Tipos de datos
-- Variables y constantes
-- Operadores y tipos
-    
-    -Operadores de asignación
-    -Operadores aritméticos
-    -Operadores relacionales
-    -Operadores lógicos
-    
-- Condicionales / estructuras selectivas
-    - if, if else
-- Ciclos / estructuras repetitivas
-    
-    -For, while, do-while, switch
-- Arreglos
-- Funciones
-- PRACTICAS.
+![Ruta de aprendizaje fundamentos en programación](https://user-images.githubusercontent.com/71718050/191284792-5b59ec61-67d6-4548-aa19-5bd72c32870c.jpg)
+
 
 ## Introducción a la programación
 Muchos tenemos un concepto sobre la programación pero quizás sea un concepto vago, en este video se trata de explicar de forma mas concisa que es la programación y con  ejemplos prácticos.
