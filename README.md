@@ -33,6 +33,12 @@ Los siguientes videos son cursos completos en los cuales se abarcan varios de lo
 | Fundamentos de programación con Seudocódigo  | https://www.youtube.com/watch?v=0YIDHVyvnIs&list=PLt1J5u9LpM59b4WzNFhhuvhwZMleg8agD&index=1 | Aprenderás lo básico de la programación con seudocódigo y con pseint, es lo mas básico antes de introducirte a algún lenguaje de programación. |
 
 ---
+## Practica lo aprendido
+Aqui te comparto unas páginas donde podrás practicar y poner en practica tus conocimientos:
+
+https://www.discoduroderoer.es/ejercicios-propuestos-y-resueltos-en-pseudocodigo/
+
+---
 
 Hasta aquí la ruta de aprendizaje de Fundamentos de programación, espero hayas realizado todos los ejercicios, si has tenido dificultad en alguno de estos recuerda pedir ayuda en nuestra comunidad de Discord.
 
