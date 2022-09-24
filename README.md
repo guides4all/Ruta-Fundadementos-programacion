@@ -29,10 +29,11 @@ Los siguientes videos son cursos completos en los cuales se abarcan varios de lo
 
 | Curso | Link | Descripción |
 | --- | --- | --- |
-| Curso de programación basica | https://platzi.com/cursos/programacion-basica/ | En este curso aprenderás desde lo mas básico enfocado en el desarrollo web, introduciéndote en HTML. CSS, JS y Node. |
+| Curso de programación basica - Platzi | https://platzi.com/cursos/programacion-basica/ | En este curso aprenderás desde lo mas básico enfocado en el desarrollo web, introduciéndote en HTML. CSS, JS y Node. |
+| Curso introducción a la programación - OpenBootcamp | https://campus.open-bootcamp.com/cursos/3 | En este módulo aprenderéis las bases de la programación desde cero para que, sea cual sea el lenguaje que queráis abordar, tengáis claros los conceptos. |
 | Aprende a programar con Python | https://youtube.com/playlist?list=PLt1J5u9LpM59b4WzNFhhuvhwZMleg8agD | Aprenderás lo básico de la programación con el lenguaje python. |
-| Fundamentos de programación con Seudocódigo  | https://www.youtube.com/watch?v=0YIDHVyvnIs&list=PLt1J5u9LpM59b4WzNFhhuvhwZMleg8agD&index=1 | Aprenderás lo básico de la programación con seudocódigo y con pseint, es lo mas básico antes de introducirte a algún lenguaje de programación. |
----
+| Fundamentos de programación con Seudocódigo  | https://www.youtube.com/watch?v=0YIDHVyvnIs&list=PLt1J5u9LpM59b4WzNFhhuvhwZMleg8agD&index=1 | Aprenderás lo básico de la programación con seudocódigo y con pseint, es lo mas básico antes de introducirte a algún lenguaje de programación. | |
+
 ## Practica lo aprendido
 Aqui te comparto unas páginas donde podrás practicar y poner en practica tus conocimientos:
 
