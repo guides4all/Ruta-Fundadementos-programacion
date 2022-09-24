@@ -36,7 +36,9 @@ Los siguientes videos son cursos completos en los cuales se abarcan varios de lo
 ## Practica lo aprendido
 Aqui te comparto unas páginas donde podrás practicar y poner en practica tus conocimientos:
 
-https://www.discoduroderoer.es/ejercicios-propuestos-y-resueltos-en-pseudocodigo/
+[Ejercicios propuestos y resueltos en pseudocodigo](https://www.discoduroderoer.es/ejercicios-propuestos-y-resueltos-en-pseudocodigo/)
+
+[Codewars - Ejercicios de logica con lenguajes](https://www.codewars.com/)
 
 ---
 
