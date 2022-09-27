@@ -4,14 +4,13 @@
 
 Apuntes:
 
-[Fundamentos de programación](https://www.notion.so/Fundamentos-de-programaci-n-219d8069e0f849d3af4e874b9e6981b8)
+[Apuntes Fundamentos de programación](https://www.notion.so/Fundamentos-de-programaci-n-219d8069e0f849d3af4e874b9e6981b8)
 
 Estos son los temas que deberías entender para tener buenas bases en programación.
 
 Temario:
 
-![Ruta de aprendizaje fundamentos en programación](https://user-images.githubusercontent.com/71718050/191284792-5b59ec61-67d6-4548-aa19-5bd72c32870c.jpg)
-
+![Fundamentos de programación ](https://user-images.githubusercontent.com/71718050/192571202-2152ee75-759d-42a5-bae1-8086c9dbf175.jpg)
 
 ## Introducción a la programación
 Muchos tenemos un concepto sobre la programación pero quizás sea un concepto vago, en este video se trata de explicar de forma mas concisa que es la programación y con  ejemplos prácticos.
