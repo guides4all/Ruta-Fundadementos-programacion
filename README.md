@@ -40,6 +40,8 @@ Aqui te comparto unas páginas donde podrás practicar y poner en practica tus c
 
 [Codewars - Ejercicios de logica con lenguajes](https://www.codewars.com/)
 
+[Algoritmos y estructuras de datos para aprender y practicar logica](https://the-algorithms.com/es)
+
 ---
 
 Hasta aquí la ruta de aprendizaje de Fundamentos de programación, espero hayas realizado todos los ejercicios, si has tenido dificultad en alguno de estos recuerda pedir ayuda en nuestra comunidad de Discord.
