@@ -13,15 +13,18 @@ Temario:
 ![Fundamentos de programación ](https://user-images.githubusercontent.com/71718050/192571202-2152ee75-759d-42a5-bae1-8086c9dbf175.jpg)
 
 ## Introducción a la programación
-Muchos tenemos un concepto sobre la programación pero quizás sea un concepto vago, en este video se trata de explicar de forma mas concisa que es la programación y con  ejemplos prácticos.
+Muchos tenemos un concepto sobre la programación pero quizás sea un concepto vago, estos videos te darán una introducción breve y concisa sobre lo que es el mundo de la programación y como se manejan los algoritmos, entre otros conceptos básicos en este mundo.
 
-[![Introducción a la programación](https://img.youtube.com/vi/LCPxcyb6xdE/0.jpg)](https://www.youtube.com/watch?v=LCPxcyb6xdE)
+[![Introducción a la programación](https://img.youtube.com/vi/LCPxcyb6xdE/0.jpg)](https://www.youtube.com/watch?v=VxrIZGQfxmE)
+
+[![Fundamentos de programacion](https://img.youtube.com/vi/VxrIZGQfxmE/0.jpg)](https://www.youtube.com/watch?v=)
 
 ## Perfiles o ramas de la programación
 
 Sabiendo ya que es la programación ahora nos adentraremos mucho mas y conoceremos los distintos perfiles en el área de la programación.
 
 [![Ramas de la programación](https://img.youtube.com/vi/QTDPOxnfRaI/0.jpg)](https://www.youtube.com/watch?v=)
+
 
 ## Curso completos sobre Fundamentos de Programación
 Los siguientes videos son cursos completos en los cuales se abarcan varios de los temas que se mencionaron al inicio para tener buenas bases en programación.
