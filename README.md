@@ -2,13 +2,13 @@
 
 🚀 **[VOLVER AL INDICE](https://github.com/guides4all/G4A-Rutas)**
 
-Apuntes:
+## Apuntes:
 
 [Apuntes Fundamentos de programación](https://www.notion.so/Fundamentos-de-programaci-n-219d8069e0f849d3af4e874b9e6981b8)
 
 Estos son los temas que deberías entender para tener buenas bases en programación.
 
-Temario:
+## Temario:
 
 ![Fundamentos de programación ](https://user-images.githubusercontent.com/71718050/192571202-2152ee75-759d-42a5-bae1-8086c9dbf175.jpg)
 
